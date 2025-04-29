@@ -129,9 +129,8 @@ The PlantTreatmonty mobile application utilizes this API to provide plant diseas
 
 ## 💻 Source Code
 
-- **API Server**: [GitHub - Plant Disease Detection API](https://github.com/Salman-Farid/plant_disease_detection)
-- **PlantTreatmonty App**: [GitHub - PlantTreatmonty Flutter App](https://github.com/Salman-Farid/planty)
-
+- **API Server**: [GitHub - Plant Disease Detection API](https://github.com/MIftakharemon/plant_disease_detection-main)
+- **PlantTreatmonty App**: [GitHub - PlantTreatmonty Flutter App](https://github.com/MIftakharemon/plantTreatmonty-main)
 ---
 
 ##  Acknowledgments
